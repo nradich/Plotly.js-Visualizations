@@ -53,11 +53,9 @@ function buildCharts(sample) {
 
     var data = [trace];
 
-    var layout = {
-      title: "Bubble Graph",
-    };
+    
 
-    Plotly.newPlot('bubble', data, layout)
+    Plotly.newPlot('bubble', data)
   
   });
 
