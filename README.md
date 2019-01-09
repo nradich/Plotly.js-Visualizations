@@ -11,5 +11,7 @@ The bubble graph and pie chart were both created using the buildCharts function 
 
 The data for this project is located within the DataSets folder.
 
+Requirements.txt is a file alerting Heroku as to what dependencies to install when the application is deployed. 
+
 Conda Environment: plotlybacteria
 
