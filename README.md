@@ -11,3 +11,5 @@ The bubble graph and pie chart were both created using the buildCharts function 
 
 The data for this project is located within the DataSets folder.
 
+Conda Environment: plotlybacteria
+
